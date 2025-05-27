@@ -7,6 +7,7 @@
   
   <p>17 years old and passionate about old Apple Tech</p>
   <p>Already Participated to school programming challenges</p>
+  <p>I also do some 3D modeling</p>
   <p>I have my one blog at <u><a href="https://gamerabbit16.github.io/Gamerabbit.Blog.io/main.html" target="_blank" rel="noopener noreferrer" style="color: #1b1b1b;">gamerabbit16.github.io</a></u>, where I have been writing about my interests</p>
   <p> Also a Musician: DJ and old double bass player</p>
   <hr>
