@@ -43,4 +43,7 @@
    <img style="height: auto; width: 59%;" src="https://github-readme-stats.vercel.app/api?username=gamerabbit16&hide=issues&count_private=true&show_icons=true&theme=dark&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=35,000000,008B8B&reload"/>
    <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=gamerabbit16&show_icons=true&layout=compact&theme=dark&title_color=00CED1&text_color=FFFFFF&icon_color=00CED1&bg_color=35,008B8B,000000&reload"/>
 </div>
+<br>
+<img style="height: auto; width: 49%;" src="https://lanyard.cnrad.dev/api/784173253097947186"/>
+<br>
 </div>
