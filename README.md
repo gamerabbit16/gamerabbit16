@@ -3,13 +3,13 @@
   <img src="https://komarev.com/ghpvc/?username=gamerabbit16&style=flat-square&color=blue" alt=""/>
   <p>Oh, hello there, this is my Github Profile !</p>
   <img src="https://avatars.githubusercontent.com/u/75642613?v=4" style="border-radius: 20px;" width="250"/>
-  <h3 style="max-width:400px; word-break: break-word;">Hello my name is Paul<br> </h3>
+  <h3 style="max-width:400px; word-break: break-word;">Hello my name is Paweł<br> </h3>
   
   <p>17 years old and passionate about old Apple Tech</p>
   <p>Already Participated to school programming challenges</p>
   <p>I also do some 3D modeling</p>
   <p>I have my one blog at <u><a href="https://gamerabbit16.github.io/Gamerabbit.Blog.io/main.html" target="_blank" rel="noopener noreferrer" style="color: #1b1b1b;">gamerabbit16.github.io</a></u>, where I have been writing about my interests</p>
-  <p> Also a Musician: DJ and old double bass player</p>
+  <p> Also a Musician: DJ and ex double bass player</p>
   <hr>
   <div style="display: flex; align-items: center;">
     <h3>
